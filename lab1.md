@@ -25,6 +25,7 @@
 9. If your lab instructions have any screenshots or images you must place them in the 'images' folder.
 
 10. You can link to the images like this:
+
   ![screenshot](https://raw.githubusercontent.com/madsec/tha-lab_template/master/images/tha-logo.png)
   * Update `NAME-OF-THE-LAB` and `FILENAME` accordingly.
 
