@@ -26,8 +26,9 @@ This lab requires the following THA virtual machines
 #### Setup
 List your instructions for setting up the lab. If your lab requires any downloadable assets they must be included in the Github Repo and should always include Step 1 of the following text:
 
+Follow our [Lab Setup](https://github.com/madsec/tha-lab_setup) if you haven't run our labs locally before or need a reminder on how they work.
+
 1. Boot any required THA VMs.
- * Follow our [Lab Setup](https://github.com/madsec/tha-lab_setup) if you haven't run our labs locally before or need a reminder on how they work.
 
 2. Boot your THA Kali VM and login.
 
